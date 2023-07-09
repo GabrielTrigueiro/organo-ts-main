@@ -1,0 +1,23 @@
+.formulario-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin: 80px 50px;
+
+}
+
+.formulario-container .formulario {
+    max-width: 50vh;
+    max-height: 75vh;
+    background: #f2f2f2;
+    border: 2px solid gray;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    padding: 36px 64px;
+}
+
+.formulario-container .formulario h2 {
+    font-weight: bold;
+    font-size: 1.5pc;
+    font-weight: bold;
+}
